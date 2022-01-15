@@ -19,5 +19,6 @@ let password = document.getElementById('password');//hacemos referencia a los da
 function getInformation(){
     console.log(email.value);
     console.log(password.value);
+    
 
 }
