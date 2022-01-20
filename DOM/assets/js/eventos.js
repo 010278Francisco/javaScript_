@@ -23,6 +23,7 @@ $mensaje.addEventListener('keyup', (e) => {
 /*
     function mostrarConsole(){
         console.log('escribiste algo');
+        //ecomerce
 
     }*/
 
